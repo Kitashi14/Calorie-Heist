@@ -39,7 +39,7 @@ const Navbar = (props) => {
                 Login / Register
               </button>
             </form> */}
-            {props.Login ? ( <Link to="/BMI" className="btn btn-dark" exact>
+            {props.type === "bmi" ? ( <Link to="/BMI" className="btn btn-dark" exact>
                 BMI Calculator
               </Link>
               
