@@ -1,0 +1,48 @@
+.form-control {
+  width: 80%;
+  margin: auto;
+}
+
+.blackground {
+  background-color: black;
+  margin-top: 5vh;
+  padding: 5vh 0 5vh 0;
+}
+
+.MainPage-item-div {
+  background-color: rgb(255, 136, 67);
+  width: 90vw;
+  min-height: 40vh;
+  margin: 5vh 5vw;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
+
+.mainpage-item-display {
+  background-color: rgb(255, 255, 255);
+  width: 86vw;
+  height: 40vh;
+  display: flex;
+  margin: 2vh 2vw;
+  overflow-x: scroll;
+}
+
+.mainpage-item-display::-webkit-scrollbar {
+  height: 10px;
+}
+
+/* Track */
+.mainpage-item-display::-webkit-scrollbar-track {
+  background: #dbdbdb;
+}
+
+/* Handle */
+.mainpage-item-display::-webkit-scrollbar-thumb {
+  background: rgb(255, 94, 0);
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+.mainpage-item-display::-webkit-scrollbar-thumb:hover {
+  background: rgb(255, 144, 79);
+}

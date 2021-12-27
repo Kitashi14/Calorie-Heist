@@ -1,0 +1,33 @@
+.profilepage-main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.profile-col {
+  width: 400px;
+  background-color: white;
+  height: 200px;
+  padding: 25px;
+}
+
+.profile-card {
+  width: 350px;
+  background-color: rgb(255, 125, 50);
+  min-height: 600px;
+  border: 2.5px solid black;
+  box-shadow: rgba(0, 0, 0, 0.8) 0px 8px 24px;
+  padding: 15px;
+}
+
+.edit-icon {
+  float: right;
+  font-size: large;
+}
+
+.profile-image {
+  float: center;
+  border-radius: 50%;
+  height: 200px;
+  width: 200px;
+  margin-left: 60px;
+}

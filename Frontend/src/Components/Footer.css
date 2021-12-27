@@ -1,0 +1,34 @@
+.site-footer {
+  background-color: #000000;
+  padding: 45px 0 20px;
+  font-size: 15px;
+  line-height: 24px;
+  color: #ffffff;
+}
+
+.site-footer .link {
+  text-decoration: none;
+  color: rgb(238, 89, 3);
+  font-size: 20px;
+  font-family: "Sofia", sans-serif;
+  text-transform: uppercase;
+  margin-top: 5px;
+  letter-spacing: 2px;
+}
+
+.site-footer a {
+  color: #737373;
+}
+
+.footer-links {
+  padding-left: 0;
+  list-style: none;
+}
+
+.footer-links li {
+  display: block;
+}
+
+.col-xs-6 {
+  margin-left: 300px;
+}

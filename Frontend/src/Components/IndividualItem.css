@@ -1,0 +1,27 @@
+.item-card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  height: 35vh;
+  width: 20vw;
+  margin: 10px;
+}
+
+.item-card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.item-image {
+  width: 15vw;
+  height: 20vh;
+  margin-left: 2.5vw;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+.container {
+  padding: 2px 2.5vw;
+}
+
+.item-card-fav-icon {
+  float: right;
+  color: rgb(241, 69, 69);
+}
