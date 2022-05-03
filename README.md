@@ -1,4 +1,4 @@
-# Cyber-Impact
+# Calorie Heist
 ## Hunger Station
 
 ### Team Name : [Cyber-Impact](https://github.com/Kitashi14/Cyber-Impact)
